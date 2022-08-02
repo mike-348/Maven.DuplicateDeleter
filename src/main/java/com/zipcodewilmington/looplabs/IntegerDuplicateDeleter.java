@@ -102,7 +102,7 @@ public final class IntegerDuplicateDeleter extends DuplicateDeleter<Integer> {
             num_unique_elements += 1;
 
 
-            // now we have a frequency array;
+
         }
         Integer[] result = new Integer[result_size];
         int index = 0;
